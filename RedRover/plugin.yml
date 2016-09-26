@@ -1,0 +1,8 @@
+name: Redrover
+version: 0.1
+main: com.gummypvp.redrover.RedRover
+description: Automatic Redrover minigame
+author: Jeremy Gooch (Googlelover1234)
+commands:
+  rrtest:
+    description: Test command
